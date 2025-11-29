@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Notepad2</string>
+    <string name="notes">我的笔记</string>
+    <string name="add_note">添加笔记</string>
+    <string name="save">保存</string>
+    <string name="delete">删除</string>
+    <string name="title">标题</string>
+    <string name="content">内容</string>
+    <string name="toast_title_empty">标题不能为空！</string>
+    <string name="toast_note_saved">笔记已保存</string>
+    <string name="toast_note_deleted">笔记已删除</string>
+</resources>
